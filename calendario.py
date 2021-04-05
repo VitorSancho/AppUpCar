@@ -46,9 +46,9 @@ Screen:
                 unfocus_color: app.theme_cls.primary_color
              
 
-        TelaLogin:
+        Calendario:
 
-<TelaLogin>: 
+<Calendario>: 
     pos_hint: {'center_x':.5, 'center_y': 0.02}
     size_hint:1,0.25
     ButtonFocus:
@@ -395,9 +395,7 @@ Screen:
         text: '1'
         focus_color: app.theme_cls.accent_color
         unfocus_color: app.theme_cls.primary_color 
-                             
-    
-    
+                              
 '''
 
 
